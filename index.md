@@ -7,7 +7,7 @@
 1. O'Reilly books
 2. links to tutorials & repositories
 3. installation instructions
-{:toc}
+* TOC {:toc}
 
 ## O'Reilly books : 
 - [Graph Databases](/Neo4J_Cypher_resources/OreillyGraphDatabases)
