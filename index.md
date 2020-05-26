@@ -4,7 +4,9 @@
 
 # All you need to get started with Neo4J & Cypher
 
-* TOC
+1. O'Reilly books
+2. links to tutorials & repositories
+3. installation instructions
 {:toc}
 
 ## O'Reilly books : 
