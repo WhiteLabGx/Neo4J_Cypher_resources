@@ -4,6 +4,9 @@
 
 # All you need to get started with Neo4J & Cypher
 
+* TOC
+{:toc}
+
 ## O'Reilly books : 
 - [Graph Databases](/Neo4J_Cypher_resources/OreillyGraphDatabases)
 - [Graph Algorithms](/Neo4J_Cypher_resources/Neo4j_Graph_Algorithms.pdf)
